@@ -1,1 +1,31 @@
+body {
+    background-color: antiquewhite
+}
+   
 
+#one {
+   
+    font-family: fantasy;
+    text-align: center; 
+    color: lightcoral;
+    font-weight: bold;
+    padding: 1em;
+        
+    
+}
+
+#two {
+    font-family: inherit;
+    text-align: center;
+    color: darkgoldenrod;
+    font-style: italic; 
+    font-size: 20px;
+    
+}
+
+#five {
+    
+   text-align: center;  
+    
+    
+}
