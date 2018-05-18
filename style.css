@@ -1,31 +1,49 @@
 body {
-    background-color: antiquewhite
+    background-color: antiquewhite;
 }
    
-
-#one {
+h1 {
    
     font-family: fantasy;
     text-align: center; 
     color: lightcoral;
     font-weight: bold;
-    padding: 1em;
-        
-    
 }
 
-#two {
+h2 {
     font-family: inherit;
     text-align: center;
     color: darkgoldenrod;
     font-style: italic; 
     font-size: 20px;
-    
 }
 
-#five {
-    
-   text-align: center;  
-    
-    
+main{
+    max-width: 1200px;
+    min-width: 30px;
+    width: 80%;
+    margin: auto;
 }
+
+.burger {
+    width: 100%;
+    margin-top: 10%
+}
+        
+.burger2 {
+    width: 100%;
+}
+  
+.exemple{
+    outline:1px solid red;
+    margin: 5px 0;
+    text-align: center;
+}
+    
+div.inline-block{
+    display: inline-block;
+    color: brown;
+}
+
+
+
